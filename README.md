@@ -1,4 +1,7 @@
-# simon-the-game
+# Simon the game
+
+## Live server
+https://vladlavysh.github.io/Simon-the-game/
 
 ## Project setup
 ```
